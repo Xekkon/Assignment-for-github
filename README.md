@@ -1,5 +1,6 @@
 # Assignment-for-github
 README, assignment 3 solved 
+
 #Q1
 product = lambda x,y : x*y
 print("Output:",product(5,6))
